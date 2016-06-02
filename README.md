@@ -3,9 +3,13 @@ Loader实例使用
 
   1 使用loaderManger加载数据
   
-  2 数据源采用模拟网络方式加载数据
-    更多支持Sql,ConrentProvider
-    
+  2 Loader
+    2.1 采用系统自带cursorLoader 
+      实现查询联系人，实现邮箱地址字自动补全
+      支持SQL和ContentProvider
+    2.2 采用自定义的Loader
+      实现从网络模拟数据，实现list展现功能
+      同样也可以支持文件和数据库
     
   
  
