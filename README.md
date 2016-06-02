@@ -16,3 +16,5 @@ Loader实例使用
 加载完成：
 
 ![LoadFinish.png](http://upload-images.jianshu.io/upload_images/2022038-16cdafd028527c59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)    
+
+Loader介绍：http://blog.csdn.net/sk719887916/article/details/51540610
